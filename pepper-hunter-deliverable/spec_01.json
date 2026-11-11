@@ -1,0 +1,7 @@
+{
+  "shard_id": 1,
+  "vector_id": "VEC-14-EXACT-CEILING-BOUNDARY",
+  "tolerance": 1e-7,
+  "sm90_alignment": true,
+  "description": "Spec shard for validating exact frame ceiling boundaries under IEEE-754-2019 §5.4.1"
+}
