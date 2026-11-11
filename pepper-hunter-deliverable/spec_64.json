@@ -1,0 +1,7 @@
+{
+  "shard_id": 64,
+  "vector_id": "VEC-64-MAX-SUB_NORMAL",
+  "tolerance": 1e-7,
+  "sm90_alignment": true,
+  "description": "Final spec shard covering subnormal lane boundary wraps for SM90 warp butterfly accumulator"
+}
